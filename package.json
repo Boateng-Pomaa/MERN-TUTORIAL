@@ -1,0 +1,22 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.3",
+    "nodemailer": "^6.7.7",
+    "react-redux": "^8.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
